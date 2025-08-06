@@ -3,10 +3,10 @@
 ### 1. TEAM INFORMATION:
 - **Team Name**: VaasthuVision  
 - **Members & Roles**:
-  - **Shiva Prasad Naroju** – Team Lead, Fullstack Developer, AI/ML Engineer, Prompt Engineer  
-  - **Vaishnavi** – UX/UI Designer, Feedback Coordinator, Documentation Support  
-  - **Akshaya** – Testing Lead, Corpus Evaluation, Multilingual Query Tester  
-- **Contact**: shivanaroju26@gmail.com
+  - **Shiva Prasad Naroju** – Team Lead, AI/ML Engineer.
+  - **Vaishnavi** – UX/UI Designer, Data Engineer & Performance Analyst. 
+  - **Akshaya** – Prompt Engineer, Testing Lead & Documentation Support.
+- **Contact**: xxxxxxxx
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### 4. TECHNICAL ARCHITECTURE:
 - **Frontend**:  
-  - Fully responsive website built using **Bolt AI**
+  - Built fully responsive and interactive website. 
 - **Backend Logic**:  
   - FastAPI  
   - `critical_keywords()` for routing  
