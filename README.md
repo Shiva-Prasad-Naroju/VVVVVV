@@ -99,15 +99,18 @@
 
 ### 7. POST INTERNSHIP VISION:
 - **Next Features**:
-  - Auto-generate floor plans  
-  - Vaasthu validation on floor plans  
-  - Voice input & multilingual support  
+  - Auto-generate 2D floor plan designs according to vaasthu.
+  - Generting Vaasthu validation report on uploading the 2D floor plans in website. 
+  - Voice input & multilingual support
+    
 - **Long-term Goal**:
-  - Make it easy for *every individual* to build homes filled with positive energy — creating **harmonious living spaces** backed by Vaasthu  
+  - Make it easy for *every individual* to build homes filled with positive energy — creating **harmonious living spaces** backed by Vaasthu
+ 
 - **Scaling Strategy**:
   - Fine-tune on collected logs  
   - Add LangGraph-based agents  
-  - Grow dataset through community contributions  
+  - Grow dataset through community contributions
+    
 - **Sustainability**:
   - Keep active via open-source commits and social engagement  
   - Convert into a freemium SaaS tool for Vaasthu consultations
