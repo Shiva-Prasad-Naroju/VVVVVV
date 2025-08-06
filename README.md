@@ -8,8 +8,6 @@
   - **Akshaya** – Testing Lead, Corpus Evaluation, Multilingual Query Tester  
 - **Contact**: [your-email@example.com] | [LinkedIn](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184)
 
----
-
 ## 2. Application Overview
 - **App Name**: Vaasthu Vision AI  
 - **Problem It Solves**:  
@@ -18,8 +16,6 @@
   A responsive AI chatbot website that gives instant Vaasthu guidance using a RAG-based pipeline.  
 - **Why It Helps Corpus Collection**:  
   Interactions generate structured, categorized Vaasthu Q&A data useful for dataset expansion.
-
----
 
 ## 3. AI Integration Details
 - **Open-source Models Used**:
@@ -31,8 +27,6 @@
 - **Data Collection Support**:
   - Generates tagged, intent-classified Vaasthu conversations
   - Enables automatic corpus growth
-
----
 
 ## 4. Technical Architecture
 - **Frontend**:  
@@ -47,8 +41,6 @@
 - **Storage**:  
   - Plaintext rule files converted to vector embeddings  
 - **Offline-first**: Planned via local inference
-
----
 
 ## 5. User Testing & Feedback (Week 2)
 - **Testers**: Through meetups, hackathons, WhatsApp  
@@ -68,8 +60,6 @@
   2. Finalized best prompt after 5 versions  
   3. Used chunk delimiters  
   4. Re-structured dataset for optimal retrieval
-
----
 
 ## 6. Project Lifecycle & Roadmap
 
@@ -97,8 +87,6 @@
 - 20+ local testers  
 - 400+ valid Q&A logs  
 - 350+ structured Vaasthu rules verified
-
----
 
 ## 7. Post-Internship Vision
 - **Next Features**:
