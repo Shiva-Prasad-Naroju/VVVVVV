@@ -1,4 +1,4 @@
-## Vaasthu Vision AI — REPORT.md
+## VAASTHU VISION AI — REPORT.md
 
 ### 1. TEAM INFORMATION:
 - **Team Name**: VaasthuVision  
@@ -8,7 +8,7 @@
   - **Akshaya** – Testing Lead, Corpus Evaluation, Multilingual Query Tester  
 - **Contact**: [your-email@example.com] | [LinkedIn](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184)
 
-===
+---
 
 ### 2. APPLICATION OVERVIEW:
 - **App Name**: Vaasthu Vision AI  
@@ -18,6 +18,8 @@
   A responsive AI chatbot website that gives instant Vaasthu guidance using a RAG-based pipeline.  
 - **Why It Helps Corpus Collection**:  
   Interactions generate structured, categorized Vaasthu Q&A data useful for dataset expansion.
+
+---
 
 ### 3. AI INTEGRATION DETAILS:
 - **Open-source Models Used**:
