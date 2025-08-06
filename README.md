@@ -23,9 +23,11 @@
 - **Open-source Models Used**:
   - `llama3-8b-8192` via Groq
   - `all-MiniLM-L6-v2` (SentenceTransformers)
+    
 - **Tasks Performed**:
   - Vaasthu Q&A via semantic search
   - Handles fallback queries
+    
 - **Data Collection Support**:
   - Generates tagged, intent-classified Vaasthu conversations
   - Enables automatic corpus growth
@@ -34,33 +36,41 @@
 
 ### 4. TECHNICAL ARCHITECTURE:
 - **Frontend**:  
-  - Built fully responsive and interactive website. 
+  - Built fully responsive and interactive website.
+    
 - **Backend Logic**:  
   - FastAPI  
   - `critical_keywords()` for routing  
   - Fallback system for non-Vaasthu queries
+    
 - **AI/ML Integration**:  
   - Qdrant vector search with chunked `.txt` rules  
   - Deterministic prompting for short answers
+    
 - **Storage**:  
-  - Plaintext rule files converted to vector embeddings  
+  - Plaintext rule files converted to vector embeddings
+    
 - **Offline-first**: Planned via local inference
 
 ---
 
 ### 5. USER TESTING & FEEDBACK (Week 2):
-- **Testers**: Through meetups, hackathons, WhatsApp  
+- **Testers**: Through meetups, hackathons, WhatsApp
+  
 - **Tasks**:
   - Vaasthu queries: "Can pooja room be above bathroom?"  
   - Edge-cases & direction-based scenarios  
-  - Non-Vaasthu: "2+2?", "Write Python code", multilingual prompts  
+  - Non-Vaasthu: "2+2?", "Write Python code", multilingual prompts
+    
 - **Feedback Collection**:
   - In-person during meetups and hackathons  
-  - WhatsApp messages and follow-up discussions  
+  - WhatsApp messages and follow-up discussions
+    
 - **Issues Raised**:
   1. Hallucinated answers  
   2. Inaccurate results from vector database  
-  3. Non-Vaasthu queries handled poorly  
+  3. Non-Vaasthu queries handled poorly
+     
 - **Fixes**:
   1. Added fallback logic  
   2. Finalized best prompt after 5 versions  
