@@ -2,12 +2,10 @@
 
 ### 1. TEAM INFORMATION:
 - **Team Name**: VaasthuVision
-  
 - **Members & Roles**:
   - **Shiva Prasad Naroju** – Team Lead, AI/ML Engineer.
   - **Vaishnavi** – UX/UI Designer, Data Engineer & Prompt Engineer.
   - **Akshaya** – Performance Analyst, Feedback coordinator & Documentation Support.
-    
 - **Contact**: xxxxxxxx
 
 ---
