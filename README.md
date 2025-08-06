@@ -6,7 +6,7 @@
   - **Shiva Prasad Naroju** – Team Lead, Fullstack Developer, AI/ML Engineer, Prompt Engineer  
   - **Vaishnavi** – UX/UI Designer, Feedback Coordinator, Documentation Support  
   - **Akshaya** – Testing Lead, Corpus Evaluation, Multilingual Query Tester  
-- **Contact**: [your-email@example.com] | [LinkedIn](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184)
+- **Contact**: shivanaroju26@gmail.com
 
 ---
 
@@ -95,8 +95,9 @@
 
 **Metrics**:
 - 20+ local testers  
-- 400+ valid Q&A logs  
 - 350+ structured Vaasthu rules verified
+
+---
 
 ### 7. POST INTERNSHIP VISION:
 - **Next Features**:
