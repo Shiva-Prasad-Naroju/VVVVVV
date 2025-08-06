@@ -16,8 +16,6 @@
   Home design often gets delayed because people have to consult both architects and Vaasthu experts separately.
 - **MVP Built**:  
   A responsive AI chatbot website that gives instant Vaasthu guidance using a RAG-based pipeline.  
-- **Why It Helps Corpus Collection**:  
-  Interactions generate structured, categorized Vaasthu Q&A data useful for dataset expansion.
 
 ---
 
