@@ -1,6 +1,6 @@
 # Vaasthu Vision AI — REPORT.md
 
-## 1. Team Information
+### 1. TEAM INFORMATION:
 - **Team Name**: VaasthuVision  
 - **Members & Roles**:
   - **Shiva Prasad Naroju** – Team Lead, Fullstack Developer, AI/ML Engineer, Prompt Engineer  
@@ -8,7 +8,7 @@
   - **Akshaya** – Testing Lead, Corpus Evaluation, Multilingual Query Tester  
 - **Contact**: [your-email@example.com] | [LinkedIn](https://www.linkedin.com/in/shiva-prasad-naroju-4772a6184)
 
-## 2. Application Overview
+### 2. APPLICATION OVERVIEW:
 - **App Name**: Vaasthu Vision AI  
 - **Problem It Solves**:  
   Users face delays in home design due to needing separate architectural and Vaasthu consultations.  
@@ -17,7 +17,7 @@
 - **Why It Helps Corpus Collection**:  
   Interactions generate structured, categorized Vaasthu Q&A data useful for dataset expansion.
 
-## 3. AI Integration Details
+### 3. AI INTEGRATION DETAILS:
 - **Open-source Models Used**:
   - `llama3-8b-8192` via Groq
   - `all-MiniLM-L6-v2` (SentenceTransformers)
