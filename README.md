@@ -13,7 +13,7 @@
 ### 2. APPLICATION OVERVIEW:
 - **App Name**: Vaasthu Vision AI  
 - **Problem It Solves**:  
-  Users face delays in home design due to needing separate architectural and Vaasthu consultations.  
+  Home design often gets delayed because people have to consult both architects and Vaasthu experts separately.
 - **MVP Built**:  
   A responsive AI chatbot website that gives instant Vaasthu guidance using a RAG-based pipeline.  
 - **Why It Helps Corpus Collection**:  
