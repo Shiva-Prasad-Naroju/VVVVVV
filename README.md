@@ -1,4 +1,4 @@
-# Vaasthu Vision AI — REPORT.md
+## Vaasthu Vision AI — REPORT.md
 
 ### 1. TEAM INFORMATION:
 - **Team Name**: VaasthuVision  
@@ -30,7 +30,9 @@
   - Generates tagged, intent-classified Vaasthu conversations
   - Enables automatic corpus growth
 
-## 4. Technical Architecture
+---
+
+### 4. TECHNICAL ARCHITECTURE:
 - **Frontend**:  
   - Fully responsive website built using **Bolt AI**
 - **Backend Logic**:  
@@ -44,7 +46,9 @@
   - Plaintext rule files converted to vector embeddings  
 - **Offline-first**: Planned via local inference
 
-## 5. User Testing & Feedback (Week 2)
+---
+
+### 5. USER TESTING & FEEDBACK (Week 2):
 - **Testers**: Through meetups, hackathons, WhatsApp  
 - **Tasks**:
   - Vaasthu queries: "Can pooja room be above bathroom?"  
@@ -63,7 +67,9 @@
   3. Used chunk delimiters  
   4. Re-structured dataset for optimal retrieval
 
-## 6. Project Lifecycle & Roadmap
+---
+
+### 6. PROJECT LIFECYCLE & ROADMAP:
 
 ### Week 1: Development
 - Finalized prompt and fallback architecture  
@@ -90,7 +96,7 @@
 - 400+ valid Q&A logs  
 - 350+ structured Vaasthu rules verified
 
-## 7. Post-Internship Vision
+### 7. POST INTERNSHIP VISION:
 - **Next Features**:
   - Auto-generate floor plans  
   - Vaasthu validation on floor plans  
@@ -105,4 +111,3 @@
   - Keep active via open-source commits and social engagement  
   - Convert into a freemium SaaS tool for Vaasthu consultations
 
----
